@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9bfa42e8cbf4c92c",
+        "id": "d83f06797c26ca6e",
         "type": "tabs",
         "children": [
           {
-            "id": "7022a05ee3072a4a",
+            "id": "e8a67010d6280e42",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,6 +160,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "76c891dd5fe2938d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
         "currentTab": 4
@@ -176,13 +186,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7022a05ee3072a4a",
+  "active": "a213fe0ebcd99759",
   "lastOpenFiles": [
-    "Welcome.md",
+    "FlashCard.md",
     "Idioms/Last Straw.md",
+    "Welcome.md",
     "Untitled",
     "Phrasal Verbs/Untitled",
     "Summarize",
