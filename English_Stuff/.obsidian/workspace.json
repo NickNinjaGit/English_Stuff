@@ -150,8 +150,19 @@
               "icon": "lucide-list",
               "title": "Outline of Last Straw"
             }
+          },
+          {
+            "id": "a213fe0ebcd99759",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "568b037c55a52f95",
+  "active": "7022a05ee3072a4a",
   "lastOpenFiles": [
     "Welcome.md",
     "Idioms/Last Straw.md",
