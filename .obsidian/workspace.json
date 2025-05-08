@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d83f06797c26ca6e",
+        "id": "a46432fb2b54766b",
         "type": "tabs",
         "children": [
           {
-            "id": "e8a67010d6280e42",
+            "id": "bf09d13d977f1d4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idioms/Last Straw.md",
+                "file": "Vocabulary/Throughout.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Last Straw"
+              "title": "Throughout"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Idioms/Last Straw.md",
+                "file": "Vocabulary/Throughout.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Last Straw"
+              "title": "Outline of Throughout"
             }
           },
           {
@@ -170,16 +170,37 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "62a3b82518a46f70",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "Dictionary"
+            }
+          },
+          {
+            "id": "0fa412adf752d591",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {},
+              "icon": "lucide-bot",
+              "title": "chatgpt"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 531.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open chatgpt": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -187,13 +208,33 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "translate:Open translation view": false
     }
   },
   "active": "a213fe0ebcd99759",
   "lastOpenFiles": [
-    "FlashCard.md",
+    "Vocabulary/Vanity.md",
+    "Vocabulary/Throughout.md",
+    "Vocabulary/Although.md",
+    "Vocabulary/Profit.md",
+    "Vocabulary/Partakers.md",
+    "Vocabulary/Mild.md",
+    "Vocabulary/Frugal.md",
+    "Vocabulary/flash test.md",
+    "Flash card.md",
+    "Summarize/Condominium X Residential Complex X Gated Community.md",
+    "chatgpt.md",
+    "Gemini Chats/WordDefinitionFormatter.gemini",
+    "Profit (en-US).md",
+    "Gemini Chats/New Chat 1.gemini",
+    "Gemini Chats/New Chat 2.gemini",
+    "Gemini Chats/New Chat 3.gemini",
+    "Gemini Chats",
+    "Vocabulary/Profits.md",
+    "Vocabulary/Profits.md",
     "Idioms/Last Straw.md",
+    "FlashCard.md",
     "Welcome.md",
     "Untitled",
     "Phrasal Verbs/Untitled",
