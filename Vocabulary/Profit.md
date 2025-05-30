@@ -24,7 +24,7 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"He profited from the investment." (Ele lucrou com o investimento.)</span>
 ---
 *The pronunciation is generally "PRO-fit," though slight variations exist depending on accent.  Always consider the context to understand the intended meaning of "profit."*
-<!--SR:!2025-05-28,30,270-->
+<!--SR:!2025-09-20,113,290-->
 
 
 

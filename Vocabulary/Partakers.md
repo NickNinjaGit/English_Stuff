@@ -11,6 +11,6 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"They were partakers in the celebration." (Eles foram participantes na celebração.)</span>  <span style="color:rgb(255, 255, 0)">"All partakers of the feast were satisfied." (Todos os participantes da festa ficaram satisfeitos.)</span>
 ---
 * **Note:** The word often implies a sense of shared experience or joint responsibility.
-<!--SR:!2025-05-13,15,290-->
+<!--SR:!2025-07-29,60,310-->
 
 

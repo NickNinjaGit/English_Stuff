@@ -27,4 +27,4 @@
 - **Example:** <span style="color:rgb(255, 255, 0)">“All is vanity and striving after wind.” (Tudo é vaidade e correr atrás do vento.)</span>
 ---
 _The pronunciation is generally “VAN-ə-tee,” com ênfase na primeira sílaba. Sempre preste atenção ao contexto para escolher a melhor tradução de “vanity.”_
-<!--SR:!2025-05-01,3,250-->
+<!--SR:!2025-06-07,8,250-->

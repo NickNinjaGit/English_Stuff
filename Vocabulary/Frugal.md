@@ -14,4 +14,4 @@ What does **frugal** mean when describing a meal or setting
   - **Example:** <span style="color:rgb(255, 255, 0)">“They served a frugal dinner of bread and soup.” (Eles serviram um jantar frugal de pão e sopa.)</span>
 ---
 *The pronunciation is generally “FROO‑gəl,” though slight variations exist depending on accent. Always consider context to pick the right nuance of “frugal.”*
-<!--SR:!2025-05-01,3,250-->
+<!--SR:!2025-06-06,7,250-->

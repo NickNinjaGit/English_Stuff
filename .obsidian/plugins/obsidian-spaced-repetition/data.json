@@ -5,7 +5,8 @@
       "#noun",
       "#adjective",
       "#verb",
-      "#conjunction"
+      "#conjunction",
+      "#expression"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
