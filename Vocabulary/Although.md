@@ -10,4 +10,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"Although it was raining, we went for a walk." (Embora estivesse chovendo, nós fomos passear.)</span>  <span style="color:rgb(255, 255, 0)">"Although he tried hard, he didn't succeed." (Apesar de ter se esforçado muito, ele não conseguiu.)</span>
 ---
 * **Note:**  The choice of Portuguese translation depends on the nuance and context of the sentence.  "Embora" is generally a good starting point, but "apesar de," "ainda que," and "conquanto" offer slightly different shades of meaning.
-<!--SR:!2025-06-02,3,230-->
+<!--SR:!2025-06-12,10,250-->

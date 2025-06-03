@@ -1,4 +1,4 @@
-#expression
+#term
 # What is the meaning of the expression "To go bad"
 ?
 - **(Verb Phrase – Literal):** <span style="color:rgb(0, 132, 255)">Used to describe food or other perishable items that have spoiled, decayed, or become unsafe to consume.</span>
@@ -13,4 +13,4 @@
     "The deal went bad after the company ran into legal trouble." (O acordo deu errado depois que a empresa enfrentou problemas legais.)</span>
 ---
 - **Note:** <span style="color:rgb(0, 132, 255)">"To go bad" can be used both literally (usually for food) and figuratively (for people, relationships, or plans). Context helps determine the meaning.</span>
-<!--SR:!2025-06-01,2,240-->
+<!--SR:!2025-06-07,5,240-->

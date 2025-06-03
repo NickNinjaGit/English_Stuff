@@ -6,7 +6,8 @@
       "#adjective",
       "#verb",
       "#conjunction",
-      "#expression"
+      "#term",
+      ""
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,

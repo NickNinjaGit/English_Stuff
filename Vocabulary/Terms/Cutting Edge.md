@@ -1,4 +1,4 @@
-#expression
+#term
 
 # What is the meaning of the expression "Cutting Edge"
 ?
@@ -12,7 +12,7 @@
 ---
 - **Example:** <span style="color:rgb(255, 255, 0)">"This company develops cutting-edge medical devices." (Esta empresa desenvolve dispositivos médicos de ponta.)
     "She's working at the cutting edge of genetic research." (Ela está trabalhando na vanguarda da pesquisa genética.)</span>
-<!--SR:!2025-05-31,1,230-->
+<!--SR:!2025-06-05,3,250-->
     
 - **Note:** <span style="color:rgb(0, 132, 255)">"Cutting edge" can function as both an adjective and a noun. It conveys a sense of modernity, advancement, and leadership in innovation.</span>
 <!--SR:!2025-05-30,1,240-->
