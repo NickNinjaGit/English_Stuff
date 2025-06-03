@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Awareness.md",
-                "mode": "source",
+                "file": "Vocabulary/Noun-Verb/Sweat.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Awareness"
+              "title": "Sweat"
             }
           }
         ]
@@ -174,26 +174,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e47e20da0c2d30e",
+  "active": "1492ae79419b2bb0",
   "lastOpenFiles": [
-    "Teste IOS.md",
-    "/Teste IOS.md",
-    "Vocabulary/Awareness.md",
-    "Flash card.md",
-    "Vocabulary/Cutting Edge.md",
-    "Vocabulary/Frugal.md",
-    "Vocabulary/flash test.md",
-    "Vocabulary/Vanity.md",
-    "Vocabulary/Mild.md",
-    "Vocabulary/Although.md",
-    "Vocabulary/Throughout.md",
-    "Vocabulary/Partakers.md",
-    "Vocabulary/To go bad.md",
-    "Vocabulary/Profit.md",
-    "Vocabulary",
-    "Summarize/Condominium X Residential Complex X Gated Community.md",
-    "Summarize",
-    "Idioms/Last Straw.md",
-    "Idioms"
+    "Vocabulary/Nouns/Ripeness.md",
+    "Vocabulary/Adjective/Ripe.md",
+    "Vocabulary/Noun-Verb/Sweat.md",
+    "Vocabulary/Noun-Verb/Harm.md",
+    "Vocabulary/Noun-Verb/Profit.md",
+    "Vocabulary/Noun-Verb",
+    "Vocabulary/Verbs/Acknwledge.md",
+    "Vocabulary/Verbs",
+    "Vocabulary/Condominium X Residential Complex X Gated Community.md",
+    "Vocabulary/Terms/Cutting Edge.md",
+    "Vocabulary/Terms/Sick as a dog.md",
+    "Vocabulary/Terms/To find out.md",
+    "Vocabulary/Terms/Keep on Track.md",
+    "Vocabulary/Terms/Let sleeping dogs lie.md",
+    "Vocabulary/Terms/To go bad.md",
+    "Vocabulary/Terms/Ace in a Hole.md",
+    "Vocabulary/Terms/There you go.md",
+    "Vocabulary/Terms/Last Straw.md",
+    "Vocabulary/Terms/Dog tired.md",
+    "Vocabulary/Terms/Set that Up.md",
+    "Vocabulary/Terms",
+    "Vocabulary/Conjunction/Although.md",
+    "Vocabulary/Conjunction/Throughout.md",
+    "Vocabulary/Conjunction",
+    "Vocabulary/Adjective/Frugal.md",
+    "Vocabulary/Adjective/Nocturnal.md",
+    "Vocabulary/Adjective/Subtle.md",
+    "Vocabulary/Adjective/Mild.md",
+    "Vocabulary/Adjective/Fierce.md",
+    "Vocabulary/Adjective/Endangered.md",
+    "Vocabulary/Adjective",
+    "Vocabulary/Nouns",
+    "/Vocabulary/Verbs",
+    "/Vocabulary/Terms",
+    "/Vocabulary/Nouns",
+    "/Vocabulary/Noun-Verb"
   ]
 }
