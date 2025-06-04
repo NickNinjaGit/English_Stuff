@@ -11,7 +11,7 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">suor.</span>
 ---
 * **Example:** <span style="color:rgb(255, 255, 0)">"After running, he wiped the sweat from his forehead." (Depois de correr, ele enxugou o suor da testa.)</span>
-<!--SR:!2025-06-03,3,250-->
+<!--SR:!2025-06-14,11,270-->
 
 ---
 * **(Noun) Intense Effort or Anxiety:** <span style="color:rgb(0, 132, 255)">A state of nervousness or hard physical or mental work causing sweating.</span>  

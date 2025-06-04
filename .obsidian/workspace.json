@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Terms/Last Straw.md",
+                "file": "Vocabulary/Verbs/Acknwledge.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Last Straw"
+              "title": "Acknwledge"
             }
           }
         ],
@@ -237,10 +237,13 @@
       "translate:Open translation view": false
     }
   },
-  "active": "a213fe0ebcd99759",
+  "active": "bf09d13d977f1d4b",
   "lastOpenFiles": [
-    "Idioms/Last Straw.md",
     "Vocabulary/Terms/Last Straw.md",
+    "Vocabulary/Nouns/Ripeness.md",
+    "Vocabulary/Noun-Verb/Sweat.md",
+    "Vocabulary/Adjective/Ripe.md",
+    "Idioms/Last Straw.md",
     "Flash card.md",
     "Vocabulary/Noun-Verb/Profit.md",
     "Vocabulary/Noun-Verb/Harm.md",
@@ -266,10 +269,7 @@
     "Vocabulary/Conjunction",
     "Vocabulary/Verbs/Acknwledge.md",
     "Vocabulary/Verbs",
-    "Vocabulary/Nouns/Outcome.md",
     "Vocabulary/Nouns",
-    "Vocabulary/Terms/To find out.md",
-    "Vocabulary/Terms/Ace in a Hole.md",
     "Vocabulary/Terms",
     "Gemini Chats/WordDefinitionFormatter.gemini",
     "Gemini Chats/New Chat 1.gemini",
