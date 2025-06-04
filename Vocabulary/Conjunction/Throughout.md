@@ -12,4 +12,4 @@
 - **Example:** <span style="color:rgb(255, 255, 0)">"There was laughter throughout the house." (Havia risadas por toda a casa.) "He remained calm throughout the meeting." (Ele permaneceu calmo durante toda a reunião.)</span>
 ---
 - **Note:** <span style="color:rgb(0, 132, 255)">Depending on the sentence, "throughout" can emphasize either the duration (tempo) or extent (espaço) of an action or situation.</span>
-<!--SR:!2025-06-03,1,190-->
+<!--SR:!2025-06-06,2,190-->
