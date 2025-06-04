@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Verbs/Acknwledge.md",
-                "mode": "preview",
+                "file": "Vocabulary/Nouns/Vow.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Acknwledge"
+              "title": "Vow"
             }
           }
         ],
@@ -221,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5
+    "width": 690.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,8 +237,21 @@
       "translate:Open translation view": false
     }
   },
-  "active": "bf09d13d977f1d4b",
+  "active": "a213fe0ebcd99759",
   "lastOpenFiles": [
+    "Vocabulary/Verbs/Swore.md",
+    "Vocabulary/Nouns/Vow.md",
+    "Vocabulary/Nouns/Effort.md",
+    "Vocabulary/Verbs/Sowing.md",
+    "Vocabulary/Verbs/Heed.md",
+    "Vocabulary/Verbs/Outnumber.md",
+    "Vocabulary/Adjective/Dismayed.md",
+    "Vocabulary/Nouns/Turmoil.md",
+    "Vocabulary/Nouns/Affair.md",
+    "Vocabulary/Verbs/Ransack.md",
+    "Vocabulary/Adjective/Bold.md",
+    "Vocabulary/Verbs/Acknwledge.md",
+    "Vocabulary/Bold.md",
     "Vocabulary/Terms/Last Straw.md",
     "Vocabulary/Nouns/Ripeness.md",
     "Vocabulary/Noun-Verb/Sweat.md",
@@ -253,21 +266,8 @@
     "Vocabulary/Nouns/Shores.md",
     "Vocabulary/Adjective/Subtle.md",
     "Vocabulary/Nouns/Salesperson.md",
-    "Vocabulary/Nouns/Receipt.md",
-    "Vocabulary/Nouns/Partakers.md",
-    "Vocabulary/Adjective/Nocturnal.md",
-    "Vocabulary/Adjective/Mild.md",
-    "Vocabulary/Nouns/Hacthlings.md",
-    "Vocabulary/Nouns/Gulls.md",
-    "Vocabulary/Adjective/Frugal.md",
-    "Vocabulary/Nouns/Flocks.md",
-    "Vocabulary/Adjective/Fierce.md",
-    "Vocabulary/Adjective/Endangered.md",
     "Vocabulary/Adjective",
-    "Vocabulary/Nouns/Awareness.md",
-    "Vocabulary/Conjunction/Although.md",
     "Vocabulary/Conjunction",
-    "Vocabulary/Verbs/Acknwledge.md",
     "Vocabulary/Verbs",
     "Vocabulary/Nouns",
     "Vocabulary/Terms",
