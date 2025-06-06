@@ -26,4 +26,4 @@
 - **Example:** <span style="color:rgb(255, 255, 0)">“She has a mild temperament.” (Ela tem um temperamento calmo.)</span>
 ---
 _The pronunciation is generally “MY-uld,” with a short “i” sound. Sempre preste atenção ao contexto para escolher a melhor tradução de “mild.”_
-<!--SR:!2025-06-03,1,190-->
+<!--SR:!2025-06-05,1,170-->
