@@ -8,4 +8,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"The turtle hatchlings made their way to the sea." (Os filhotes de tartaruga seguiram em direção ao mar.)</span>
 ---
 *This word is typically used in zoological or wildlife contexts, emphasizing the vulnerable stage right after birth from an egg.*
-<!--SR:!2025-06-05,3,250-->
+<!--SR:!2025-06-17,12,270-->

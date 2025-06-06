@@ -13,4 +13,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"She’s a great salesperson for the brand’s values." (Ela é uma grande promotora dos valores da marca.)</span>
 ---
 *The pronunciation is "ˈseɪlzˌpɜr.sən." It's gender-neutral, though alternatives like "salesman" and "saleswoman" are also used. Always consider the context to understand the intended meaning of "salesperson."*
-<!--SR:!2025-06-05,3,250-->
+<!--SR:!2025-06-16,11,270-->

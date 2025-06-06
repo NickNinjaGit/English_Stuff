@@ -8,4 +8,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"Flocks of geese flew across the sky." (Bandos de gansos voaram pelo céu.)</span>
 ---
 *This word is mostly used when describing birds or farm animals moving together.*
-<!--SR:!2025-06-05,3,250-->
+<!--SR:!2025-06-15,10,270-->

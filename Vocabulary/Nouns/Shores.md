@@ -8,4 +8,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"The waves crashed against the rocky shores." (As ondas batiam nas costas rochosas.)</span>
 ---
 *“Shores” is a general word for where land meets water, often used in poetic or geographic contexts.*
-<!--SR:!2025-06-05,2,230-->
+<!--SR:!2025-06-12,7,250-->

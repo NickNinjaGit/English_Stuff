@@ -6,5 +6,6 @@
 * **Synonyms:** <span style="color:rgb(0, 176, 240)">brave, daring, fearless, courageous, audacious</span>
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">ousado, corajoso, audacioso</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"She made a bold decision to quit her job and travel the world." (Ela tomou uma decisão ousada de largar o emprego e viajar pelo mundo.)</span>
+![[Bold.png]]
 ---
-<!--SR:!2025-06-05,1,230-->
+<!--SR:!2025-06-08,3,250-->

@@ -18,4 +18,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"She followed an old receipt for the remedy." (Ela seguiu uma receita antiga para o remédio.)</span>
 ---
 *The pronunciation is "rɪˈsiːt" (note: the 'p' is silent). Always consider the context to understand the intended meaning of "receipt."*
-<!--SR:!2025-06-05,3,250-->
+<!--SR:!2025-06-17,12,270-->

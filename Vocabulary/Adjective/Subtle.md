@@ -13,4 +13,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"He made a subtle suggestion during the meeting." (Ele fez uma sugestão sutil durante a reunião.)</span>
 ---
 *The pronunciation is "ˈsʌt.əl" — the 'b' is silent. “Subtle” often implies sophistication and complexity beneath the surface.*
-<!--SR:!2025-06-05,3,250-->
+<!--SR:!2025-06-16,11,270-->

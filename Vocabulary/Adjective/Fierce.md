@@ -19,4 +19,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"You look fierce in that outfit!" (Você está arrasando com essa roupa!)</span>
 ---
 *The pronunciation is "fɪərs." "Fierce" can describe anything from wild animals to bold fashion — the tone depends on the context.*
-<!--SR:!2025-06-05,3,250-->
+<!--SR:!2025-06-13,8,250-->

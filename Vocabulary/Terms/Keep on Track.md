@@ -11,6 +11,7 @@
 * **Synonyms:** <span style="color:rgb(0, 176, 240)">stay in control, stay aligned, stay organized, remain steady.</span>
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">manter o controle, evitar desvios, manter a ordem.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"Therapy helps her keep on track emotionally." (A terapia a ajuda a manter-se emocionalmente no controle.)</span>
+![[Keep on Track.png]]
 ---
 *The phrase is commonly used in professional, academic, and personal contexts. It emphasizes consistency, discipline, and purpose.*
-<!--SR:!2025-06-05,3,250-->
+<!--SR:!2025-06-14,9,250-->
