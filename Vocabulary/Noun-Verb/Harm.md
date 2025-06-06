@@ -13,4 +13,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">prejudicar, ferir, machucar.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"He didn’t mean to harm anyone." (Ele não quis prejudicar ninguém.)</span>
 ---
-<!--SR:!2025-06-06,3,250-->
+<!--SR:!2025-06-14,8,250-->

@@ -9,5 +9,5 @@
 ![[Dog tired.png]]
 ---
 *Often used informally to emphasize exhaustion.*
-<!--SR:!2025-06-06,4,270-->
+<!--SR:!2025-06-21,15,290-->
 

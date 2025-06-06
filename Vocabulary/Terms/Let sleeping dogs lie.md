@@ -9,4 +9,4 @@
 ![[Let sleeping dogs lie.png|654x375]]
 ---
 *The expression suggests it's wiser not to provoke a situation that might lead to trouble.*
-<!--SR:!2025-06-06,4,270-->
+<!--SR:!2025-06-22,16,290-->
