@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">esforço, tentativa, empenho</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"She put a lot of effort into her project." (Ela colocou muito esforço em seu projeto.)</span>
 ---
-<!--SR:!2025-06-07,3,250-->
+<!--SR:!2025-06-21,12,270-->

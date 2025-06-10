@@ -12,4 +12,4 @@
 ---
 - **Example:** <span style="color:rgb(255, 255, 0)">"Environmental awareness is growing among young people." (A consciência ambiental está crescendo entre os jovens.)
     "She had no awareness of the danger she was in." (Ela não tinha consciência do perigo em que estava.)</span>
-<!--SR:!2025-06-08,3,230-->
+<!--SR:!2025-06-16,7,230-->

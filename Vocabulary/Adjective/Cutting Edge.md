@@ -13,4 +13,4 @@
     "She's working at the cutting edge of genetic research." (Ela está trabalhando na vanguarda da pesquisa genética.)</span>
 - **Note:** <span style="color:rgb(0, 132, 255)">"Cutting edge" can function as both an adjective and a noun. It conveys a sense of modernity, advancement, and leadership in innovation.</span>
 ![[Cutting Edge.png]]
-<!--SR:!2025-06-09,4,270-->
+<!--SR:!2025-06-24,15,290-->

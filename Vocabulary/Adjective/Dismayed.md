@@ -8,4 +8,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"She was dismayed by the test results." (Ela ficou consternada com os resultados da prova.)</span>
 ![[Dismayed.png]]
 ---
-<!--SR:!2025-06-09,3,230-->
+<!--SR:!2025-06-19,10,250-->

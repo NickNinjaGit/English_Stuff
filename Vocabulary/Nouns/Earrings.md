@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">brincos.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"She bought a pair of gold earrings." (Ela comprou um par de brincos de ouro.)</span>
 ---
-<!--SR:!2025-06-09,4,270-->
+<!--SR:!2025-06-23,14,290-->
