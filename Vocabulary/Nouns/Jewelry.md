@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">joias, bijuterias.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"She keeps her jewelry in a velvet box." (Ela guarda suas joias em uma caixa de veludo.)</span>
 ---
-<!--SR:!2025-06-09,4,270-->
+<!--SR:!2025-06-25,16,290-->

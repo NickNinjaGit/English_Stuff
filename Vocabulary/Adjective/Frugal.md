@@ -1,6 +1,6 @@
 #adjective
 
-# What is the primary meaning of the adjective **frugal**
+# What is the primary meaning of the adjective frugal
 ?
 - **(Adjective) Economical with Resources:** <span style="color:rgb(0, 132, 255)">Describes someone who is careful to use only as much money or food as necessary.</span>
   - **Synonyms:** <span style="color:rgb(0, 176, 240)">economical, thrifty, sparing, prudent, cost‑conscious</span>
@@ -14,4 +14,8 @@ What does **frugal** mean when describing a meal or setting
   - **Example:** <span style="color:rgb(255, 255, 0)">“They served a frugal dinner of bread and soup.” (Eles serviram um jantar frugal de pão e sopa.)</span>
 ---
 *The pronunciation is generally “FROO‑gəl,” though slight variations exist depending on accent. Always consider context to pick the right nuance of “frugal.”*
+<<<<<<< HEAD
 <!--SR:!2025-07-10,25,270-->
+=======
+<!--SR:!2025-07-01,25,270-->
+>>>>>>> origin/master

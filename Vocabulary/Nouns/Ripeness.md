@@ -13,4 +13,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"The ripeness of the moment made it the best time to start the project." (A prontidão do momento tornou esta a melhor hora para iniciar o projeto.)</span>
 ---
 *The pronunciation is "ˈraɪp.nəs." Always consider the context to understand the intended meaning of "ripeness."*
-<!--SR:!2025-06-06,3,250-->
+<!--SR:!2025-06-18,12,270-->

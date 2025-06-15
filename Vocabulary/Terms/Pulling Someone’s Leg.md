@@ -8,4 +8,8 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"Don't worry, I'm just pulling your leg." (Não se preocupe, estou só pregando uma peça.)</span>
 ![[Pulling Someone’s Leg.png]]
 ---
+<<<<<<< HEAD
 <!--SR:!2025-06-29,14,290-->
+=======
+<!--SR:!2025-06-24,15,290-->
+>>>>>>> origin/master

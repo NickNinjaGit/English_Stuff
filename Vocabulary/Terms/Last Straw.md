@@ -8,4 +8,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"When he forgot her birthday, it was the last straw." (Quando ele esqueceu o aniversário dela, foi a gota d’água.)</span>
 ![[Last Straw.png]]
 ---
-<!--SR:!2025-06-07,3,250-->
+<!--SR:!2025-06-19,10,270-->

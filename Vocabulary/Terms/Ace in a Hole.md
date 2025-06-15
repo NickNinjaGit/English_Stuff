@@ -9,4 +9,4 @@
 ![[Ace in a Hole.png]]
 ---
 *The phrase comes from poker, where having an ace hidden (in the hole) gives a strategic edge.*
-<!--SR:!2025-06-08,4,270-->
+<!--SR:!2025-06-23,14,290-->
