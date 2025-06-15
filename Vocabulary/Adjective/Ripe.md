@@ -17,4 +17,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"He is a ripe old man of ninety." (Ele é um homem maduro de noventa anos.)</span>
 ---
 *The pronunciation is "raɪp" (rhymes with "type"). Always consider the context to understand the intended meaning of "ripe."*
-<!--SR:!2025-06-07,3,250-->
+<!--SR:!2025-06-25,10,270-->

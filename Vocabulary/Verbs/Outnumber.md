@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">em menor número, superado em quantidade</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"The soldiers were heavily outnumbered." (Os soldados estavam em grande desvantagem numérica.)</span>
 ---
-<!--SR:!2025-06-08,4,270-->
+<!--SR:!2025-06-30,15,290-->

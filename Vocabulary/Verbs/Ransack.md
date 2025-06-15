@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">saqueou, revirou, pilhou</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"The burglars ransacked the entire house." (Os ladrões reviraram toda a casa.)</span>
 ---
-<!--SR:!2025-06-08,4,270-->
+<!--SR:!2025-07-01,16,290-->

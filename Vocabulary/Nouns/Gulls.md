@@ -8,4 +8,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"Gulls circled above the fishing boats." (Gaivotas circulavam acima dos barcos de pesca.)</span>
 ---
 *“Gulls” are commonly associated with coastal environments and are known for adapting to human presence.*
-<!--SR:!2025-06-15,10,270-->
+<!--SR:!2025-07-24,39,290-->
