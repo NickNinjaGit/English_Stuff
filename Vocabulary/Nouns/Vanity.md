@@ -28,7 +28,8 @@
 ---
 _The pronunciation is generally “VAN-ə-tee,” com ênfase na primeira sílaba. Sempre preste atenção ao contexto para escolher a melhor tradução de “vanity.”_
 <<<<<<< HEAD
-<!--SR:!2025-07-04,19,250-->
+
 =======
-<!--SR:!2025-07-07,28,270-->
+
 >>>>>>> origin/master
+<!--SR:!2025-07-04,19,250-->

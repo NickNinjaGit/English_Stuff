@@ -13,7 +13,8 @@
 ---
 - **Note:** <span style="color:rgb(0, 132, 255)">Depending on the sentence, "throughout" can emphasize either the duration (tempo) or extent (espaço) of an action or situation.</span>
 <<<<<<< HEAD
-<!--SR:!2025-06-20,5,210-->
+
 =======
-<!--SR:!2025-06-11,5,210-->
+
 >>>>>>> origin/master
+<!--SR:!2025-06-20,5,210-->

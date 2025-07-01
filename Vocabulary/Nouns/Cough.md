@@ -9,7 +9,8 @@
 ![[Cough.png]]
 *The pronunciation is "kɒf." "Cough" can be a symptom of illness or irritation in the throat.*
 <<<<<<< HEAD
-<!--SR:!2025-06-19,4,270-->
+
 =======
-<!--SR:!2025-06-10,4,270-->
+
 >>>>>>> origin/master
+<!--SR:!2025-06-19,4,270-->

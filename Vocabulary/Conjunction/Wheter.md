@@ -9,7 +9,8 @@
 ![[Wheter.png|595x505]]
 *The pronunciation is "ˈweð.ɚ." "Whether" is commonly used to express options or conditions.*
 <<<<<<< HEAD
-<!--SR:!2025-06-18,3,250-->
+
 =======
-<!--SR:!2025-06-18,9,250-->
+
 >>>>>>> origin/master
+<!--SR:!2025-06-18,3,250-->

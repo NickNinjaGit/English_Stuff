@@ -18,7 +18,8 @@
 ---
 *The pronunciation is "raɪp" (rhymes with "type"). Always consider the context to understand the intended meaning of "ripe."*
 <<<<<<< HEAD
-<!--SR:!2025-06-25,10,270-->
+
 =======
-<!--SR:!2025-06-20,11,270-->
+
 >>>>>>> origin/master
+<!--SR:!2025-06-25,10,270-->

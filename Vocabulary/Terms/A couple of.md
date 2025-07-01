@@ -9,7 +9,8 @@
 *The pronunciation is "ˈkʌp.l̩ əv." Though it literally means "two," it's often used more loosely in casual speech.*
 ![[A couple of.png|697x436]]
 <<<<<<< HEAD
-<!--SR:!2025-06-19,4,270-->
+
 =======
-<!--SR:!2025-06-10,4,270-->
+
 >>>>>>> origin/master
+<!--SR:!2025-06-19,4,270-->

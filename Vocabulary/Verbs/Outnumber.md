@@ -8,7 +8,8 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"The soldiers were heavily outnumbered." (Os soldados estavam em grande desvantagem numérica.)</span>
 ---
 <<<<<<< HEAD
-<!--SR:!2025-06-30,15,290-->
+
 =======
-<!--SR:!2025-06-25,16,290-->
+
 >>>>>>> origin/master
+<!--SR:!2025-06-30,15,290-->

@@ -27,7 +27,8 @@
 ---
 _The pronunciation is generally “MY-uld,” with a short “i” sound. Sempre preste atenção ao contexto para escolher a melhor tradução de “mild.”_
 <<<<<<< HEAD
-<!--SR:!2025-06-19,4,190-->
+
 =======
-<!--SR:!2025-06-14,5,210-->
+
 >>>>>>> origin/master
+<!--SR:!2025-06-19,4,190-->

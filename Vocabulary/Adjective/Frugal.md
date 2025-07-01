@@ -15,7 +15,8 @@ What does **frugal** mean when describing a meal or setting
 ---
 *The pronunciation is generally “FROO‑gəl,” though slight variations exist depending on accent. Always consider context to pick the right nuance of “frugal.”*
 <<<<<<< HEAD
-<!--SR:!2025-07-10,25,270-->
+
 =======
-<!--SR:!2025-07-01,25,270-->
+
 >>>>>>> origin/master
+<!--SR:!2025-07-10,25,270-->
