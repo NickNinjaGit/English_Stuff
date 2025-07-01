@@ -14,4 +14,4 @@
 ---
 - **Note:** <span style="color:rgb(0, 132, 255)">"To go bad" can be used both literally (usually for food) and figuratively (for people, relationships, or plans). Context helps determine the meaning.</span>
 ![[To go bad.png|549x348]]
-<!--SR:!2025-06-26,17,260-->
+<!--SR:!2025-09-01,62,280-->

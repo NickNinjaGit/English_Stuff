@@ -7,9 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">semear, plantar, espalhar</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"They were sowing the seeds of rebellion." (Eles estavam semeando as sementes da rebelião.)</span>
 ---
-<<<<<<< HEAD
-
-=======
-
->>>>>>> origin/master
-<!--SR:!2025-06-29,14,290-->
+<!--SR:!2025-08-24,54,310-->

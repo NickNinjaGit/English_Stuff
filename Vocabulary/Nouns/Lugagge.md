@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">bagagem.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"He packed his luggage the night before the flight." (Ele arrumou sua bagagem na noite anterior ao voo.)</span>
 *The pronunciation is "ˈlʌɡ.ɪdʒ." "Luggage" is uncountable in English and refers to all your travel bags collectively.*
-<!--SR:!2025-06-12,3,250-->
+<!--SR:!2025-07-12,11,270-->

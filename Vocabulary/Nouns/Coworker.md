@@ -8,4 +8,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"My coworker helped me finish the project." (Meu colega de trabalho me ajudou a terminar o projeto.)</span>
 ![[Coworker.png]]
 *The pronunciation is "ˈkoʊˌwɝː.kɚ." "Coworker" emphasizes professional partnership.*
-<!--SR:!2025-06-10,4,270-->
+<!--SR:!2025-07-16,15,290-->

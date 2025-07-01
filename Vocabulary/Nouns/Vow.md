@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">voto, juramento, promessa</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"She made a vow never to lie again." (Ela fez um voto de nunca mais mentir.)</span>
 ---
-<!--SR:!2025-06-24,15,290-->
+<!--SR:!2025-08-31,61,310-->

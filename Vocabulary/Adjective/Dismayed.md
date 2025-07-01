@@ -8,9 +8,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"She was dismayed by the test results." (Ela ficou consternada com os resultados da prova.)</span>
 ![[Dismayed.png]]
 ---
-<<<<<<< HEAD
-
-=======
-
->>>>>>> origin/master
-<!--SR:!2025-06-18,3,230-->
+<!--SR:!2025-07-11,10,250-->

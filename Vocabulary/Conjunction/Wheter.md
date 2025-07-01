@@ -8,9 +8,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"I don’t know whether he’ll come or not." (Não sei se ele virá ou não.)</span>
 ![[Wheter.png|595x505]]
 *The pronunciation is "ˈweð.ɚ." "Whether" is commonly used to express options or conditions.*
-<<<<<<< HEAD
-
-=======
-
->>>>>>> origin/master
-<!--SR:!2025-06-18,3,250-->
+<!--SR:!2025-07-04,3,250-->

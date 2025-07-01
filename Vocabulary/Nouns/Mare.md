@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">égua.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"The mare gave birth to a foal last spring." (A égua deu à luz a um potro na primavera passada.)</span>
 *The pronunciation is "mɛr." "Mare" is used specifically to refer to female horses.*
-<!--SR:!2025-06-12,3,250-->
+<!--SR:!2025-07-11,10,270-->

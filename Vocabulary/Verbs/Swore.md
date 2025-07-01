@@ -7,9 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">jurou, xingou</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"He swore to protect his family." (Ele jurou proteger sua família.)</span>
 ---
-<<<<<<< HEAD
-
-=======
-
->>>>>>> origin/master
-<!--SR:!2025-06-25,10,270-->
+<!--SR:!2025-08-08,38,290-->

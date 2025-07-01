@@ -9,4 +9,4 @@
 ![[There you go.png|478x343]]
 ---
 *Can also express encouragement or acknowledgment of success: “There you go! You did it.”*
-<!--SR:!2025-06-20,14,290-->
+<!--SR:!2025-08-25,55,310-->

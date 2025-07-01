@@ -14,4 +14,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"They took a nocturnal walk through the park." (Eles fizeram uma caminhada noturna pelo parque.)</span>
 ---
 *The pronunciation is "nɒkˈtɜː.nəl" (UK) or "nɑːkˈtɝː.nəl" (US). “Nocturnal” is commonly used in biology, but also in poetic or descriptive writing.*
-<!--SR:!2025-06-21,15,290-->
+<!--SR:!2025-08-30,60,310-->

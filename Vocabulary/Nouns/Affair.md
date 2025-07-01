@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">caso, acontecimento, relacionamento extraconjugal</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"They tried to keep their affair a secret." (Eles tentaram manter o caso em segredo.)</span>
 ---
-<!--SR:!2025-06-19,10,250-->
+<!--SR:!2025-08-05,35,270-->

@@ -7,9 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">reconhecer, admitir, aceitar.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"She acknowledged her mistake and apologized." (Ela reconheceu seu erro e pediu desculpas.)</span>
 ---
-<<<<<<< HEAD
-
-=======
-
->>>>>>> origin/master
-<!--SR:!2025-06-26,11,270-->
+<!--SR:!2025-08-11,41,290-->

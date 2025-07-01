@@ -8,9 +8,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"I just found out that she’s moving to Canada." (Acabei de descobrir que ela vai se mudar para o Canadá.)</span>
 ![[To find out.png|601x280]]
 ---
-<<<<<<< HEAD
-
-=======
-
->>>>>>> origin/master
-<!--SR:!2025-06-26,11,270-->
+<!--SR:!2025-08-12,42,290-->

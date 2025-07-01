@@ -8,9 +8,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"She had a persistent cough all week." (Ela teve uma tosse persistente a semana toda.)</span>
 ![[Cough.png]]
 *The pronunciation is "kɒf." "Cough" can be a symptom of illness or irritation in the throat.*
-<<<<<<< HEAD
-
-=======
-
->>>>>>> origin/master
-<!--SR:!2025-06-19,4,270-->
+<!--SR:!2025-07-16,15,290-->

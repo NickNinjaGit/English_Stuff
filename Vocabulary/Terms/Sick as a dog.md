@@ -9,4 +9,4 @@
 ![[Sick as a dog.png|700x361]]
 ---
 *This expression is informal and often used with humor or exaggeration.*
-<!--SR:!2025-06-16,11,270-->
+<!--SR:!2025-08-09,39,290-->

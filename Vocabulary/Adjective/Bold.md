@@ -8,9 +8,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"She made a bold decision to quit her job and travel the world." (Ela tomou uma decisão ousada de largar o emprego e viajar pelo mundo.)</span>
 ![[Bold.png]]
 ---
-<<<<<<< HEAD
-
-=======
-
->>>>>>> origin/master
-<!--SR:!2025-06-27,12,270-->
+<!--SR:!2025-08-15,45,290-->

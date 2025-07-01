@@ -8,9 +8,4 @@
 * **Example:** <span style="color:rgb(255, 255, 0)">"I'll be back in a couple of minutes." (Volto em alguns minutos.)</span>
 *The pronunciation is "ˈkʌp.l̩ əv." Though it literally means "two," it's often used more loosely in casual speech.*
 ![[A couple of.png|697x436]]
-<<<<<<< HEAD
-
-=======
-
->>>>>>> origin/master
-<!--SR:!2025-06-19,4,270-->
+<!--SR:!2025-07-17,16,290-->

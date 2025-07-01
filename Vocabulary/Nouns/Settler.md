@@ -9,9 +9,4 @@
 ![[Settler.png]]
 ---
 *The pronunciation is "ˈsɛt.lɚ." A "settler" is typically linked to migration, history, or colonization contexts.*
-<<<<<<< HEAD
-
-=======
-
->>>>>>> origin/master
-<!--SR:!2025-06-19,4,270-->
+<!--SR:!2025-07-15,14,290-->
