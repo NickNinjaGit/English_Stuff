@@ -12,4 +12,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">aceitar, adotar.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"She embraced the challenges of her new job." (Ela abraçou os desafios do novo emprego.)</span>
 *The pronunciation is "ɛmˈbreɪs." "Embrace" has both emotional and figurative uses.*
-<!--SR:!2025-07-02,1,230-->
+<!--SR:!2025-07-05,3,250-->

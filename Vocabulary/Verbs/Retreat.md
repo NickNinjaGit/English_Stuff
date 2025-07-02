@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">recuar, retirar-se.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"The army had to retreat under heavy fire." (O exército teve que recuar sob fogo pesado.)</span>
 *The pronunciation is "rɪˈtriːt." Can also be used for emotional or mental withdrawal.*
-<!--SR:!2025-07-02,1,230-->
+<!--SR:!2025-07-05,3,250-->

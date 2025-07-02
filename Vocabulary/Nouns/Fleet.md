@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">frota.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"The company owns a fleet of delivery trucks." (A empresa possui uma frota de caminhões de entrega.)</span>
 *The pronunciation is "fliːt." "Fleet" is also used metaphorically for fast or agile groups.*
-<!--SR:!2025-07-02,1,230-->
+<!--SR:!2025-07-03,1,210-->
