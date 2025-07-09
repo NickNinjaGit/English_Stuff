@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">conflito, luta, discórdia.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"The country has endured years of political strife." (O país enfrentou anos de conflito político.)</span>
 *The pronunciation is "straɪf." "Strife" often implies long-term tension or war.*
-<!--SR:!2025-07-03,1,210-->
+<!--SR:!2025-07-11,2,210-->

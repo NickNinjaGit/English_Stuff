@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">traição, perfídia.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"His act of treachery shocked everyone." (Seu ato de traição chocou a todos.)</span>
 *The pronunciation is "ˈtrɛtʃ.ər.i." "Treachery" refers to a severe violation of trust or faith.*
-<!--SR:!2025-07-03,2,230-->
+<!--SR:!2025-07-16,7,250-->

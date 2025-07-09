@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">tão, tal, desse tipo.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"She’s such a kind person." (Ela é uma pessoa tão gentil.)</span>
 *The pronunciation is "sʌtʃ." Emphasizes degree or type.*
-<!--SR:!2025-07-05,3,250-->
+<!--SR:!2025-07-09,1,250-->

@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">dar cobertura, proteger, cuidar de.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"Don’t worry, I have you covered." (Não se preocupe, eu te dou cobertura.)</span>
 *The pronunciation is "hæv ˈsʌm.wən ˈkʌv.ərd." Common in teamwork and emergencies.*
-<!--SR:!2025-07-03,1,230-->
+<!--SR:!2025-07-10,1,210-->

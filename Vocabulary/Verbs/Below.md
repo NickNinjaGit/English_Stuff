@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">imaginar, questionar, perguntar-se.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"I wonder if she will come." (Eu me pergunto se ela virá.)</span>
 *The pronunciation is "ˈwʌn.dɚ." Can be emotional or thoughtful.*
-<!--SR:!2025-07-05,3,250-->
+<!--SR:!2025-07-19,11,270-->

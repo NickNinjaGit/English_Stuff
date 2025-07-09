@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">dias escaldantes, auge do verão.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"During the dog days of summer, everyone stays inside." (Durante os dias escaldantes do verão, todos ficam dentro de casa.)</span>
 *The pronunciation is "dɔːɡ deɪz." Comes from ancient Roman astrology.*
-<!--SR:!2025-07-03,1,230-->
+<!--SR:!2025-07-09,1,210-->

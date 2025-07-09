@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">invadir, transgredir.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"He was fined for trespassing on private land." (Ele foi multado por invadir uma propriedade privada.)</span>
 *The pronunciation is "ˈtrɛs.pæs." Often seen on warning signs: "No Trespassing."*
-<!--SR:!2025-07-06,4,270-->
+<!--SR:!2025-07-23,15,290-->

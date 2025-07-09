@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">varejo, comércio varejista.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"She works in retail and manages a clothing store." (Ela trabalha no varejo e gerencia uma loja de roupas.)</span>
 *The pronunciation is "ˈriː.teɪl." "Retail" contrasts with "wholesale," which involves bulk selling.*
-<!--SR:!2025-07-04,2,210-->
+<!--SR:!2025-07-10,1,190-->

@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">além de, para além.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"The road continues beyond the horizon." (A estrada continua além do horizonte.)</span>
 *The pronunciation is "biˈjɑːnd." Can be used literally or metaphorically (e.g., beyond belief).*
-<!--SR:!2025-07-04,2,230-->
+<!--SR:!2025-07-15,7,250-->

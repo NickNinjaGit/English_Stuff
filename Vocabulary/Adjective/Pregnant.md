@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">grávida.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"She found out she was pregnant last week." (Ela descobriu que estava grávida na semana passada.)</span>
 *The pronunciation is "ˈprɛɡ.nənt." Commonly used in medical and everyday conversations.*
-<!--SR:!2025-07-06,4,270-->
+<!--SR:!2025-07-23,15,290-->

@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">superado, ultrapassado.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"The team was clearly outmatched by their rivals." (O time foi claramente superado pelos rivais.)</span>
 *The pronunciation is "ˌaʊtˈmætʃt." Often used in sports or battles.*
-<!--SR:!2025-07-04,3,250-->
+<!--SR:!2025-07-18,10,270-->

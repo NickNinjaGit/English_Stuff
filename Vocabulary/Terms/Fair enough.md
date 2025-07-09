@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">justo, razoável, tudo bem.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"You don’t want to go? Fair enough." (Você não quer ir? Justo.)</span>
 *The pronunciation is "fɛr ɪˈnʌf." It's a casual expression used in everyday conversations.*
-<!--SR:!2025-07-05,3,250-->
+<!--SR:!2025-07-19,10,270-->

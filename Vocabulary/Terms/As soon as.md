@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">assim que, logo que.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"Call me as soon as you arrive." (Me ligue assim que você chegar.)</span>
 *The pronunciation is "æz suːn æz." Common in time expressions.*
-<!--SR:!2025-07-05,3,250-->
+<!--SR:!2025-07-17,8,250-->

@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">justo, imparcial.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"The judge gave a fair decision." (O juiz deu uma decisão justa.)</span>
 *The pronunciation is "fɛr." "Fair" can also describe weather, appearance, or complexion depending on context.*
-<!--SR:!2025-07-05,4,270-->
+<!--SR:!2025-07-10,2,250-->

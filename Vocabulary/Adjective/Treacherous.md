@@ -11,4 +11,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">traidor, desleal.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"Her treacherous actions ended the alliance." (Suas ações traiçoeiras acabaram com a aliança.)</span>
 *The pronunciation is "ˈtrɛtʃ.ɚ.əs." "Treacherous" can describe both danger and betrayal depending on context.*
-<!--SR:!2025-07-04,3,250-->
+<!--SR:!2025-07-19,11,270-->

@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">rosnar, resmungar.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"The dog growled at the stranger." (O cachorro rosnou para o estranho.)</span>
 *The pronunciation is "ɡraʊl." Also used metaphorically to show frustration.*
-<!--SR:!2025-07-06,4,270-->
+<!--SR:!2025-07-24,16,290-->

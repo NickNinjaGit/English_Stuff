@@ -6,4 +6,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">em cima de, sobre.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"He jumped onto the platform." (Ele pulou para cima da plataforma.)</span>
 *The pronunciation is "ˈɑːn.tu." Common in spatial descriptions.*
-<!--SR:!2025-07-03,1,230-->
+<!--SR:!2025-07-11,3,250-->

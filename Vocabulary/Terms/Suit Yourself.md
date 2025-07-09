@@ -7,4 +7,4 @@
 * **Portuguese Translation:** <span style="color:rgb(0, 176, 80)">faça como quiser, como preferir.</span>
 * **Example:** <span style="color:rgb(255, 255, 0)">"I warned you about the risks, but suit yourself." (Eu te avisei dos riscos, mas faça como quiser.)</span>
 *The pronunciation is "suːt jərˈsɛlf." Often used with a tone of indifference or resignation.*
-<!--SR:!2025-07-03,1,230-->
+<!--SR:!2025-07-10,1,210-->
